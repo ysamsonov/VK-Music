@@ -1,0 +1,20 @@
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\bin\Debug\VK Music.exe.config
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\bin\Debug\VK Music.exe
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\bin\Debug\VK Music.pdb
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK Music.csprojResolveAssemblyReference.cache
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK_Music.Properties.Resources.resources
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK Music.csproj.GenerateResource.Cache
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK Music.exe
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK Music.pdb
+c:\users\юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK_Music.AuthorizationForm.resources
+C:\Users\Юрий\documents\visual studio 2012\Projects\VK Music\VK Music\obj\Debug\VK_Music.VK_Music_Download.resources
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\bin\Debug\VK Music.exe.config
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK Music.exe
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK Music.pdb
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK Music.csprojResolveAssemblyReference.cache
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK_Music.AuthorizationForm.resources
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK_Music.Properties.Resources.resources
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK_Music.VK_Music_Download.resources
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\obj\Debug\VK Music.csproj.GenerateResource.Cache
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\bin\Debug\VK Music.exe
+C:\Users\TM\Documents\Visual Studio 2013\Projects\VK Music\VK Music\bin\Debug\VK Music.pdb

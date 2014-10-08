@@ -15,7 +15,8 @@ $RECYCLE.BIN/
 *.msp
 
 # Debug Folder
-Debug/*.*
+bin/**/*.*
+obh/**/*.*
 
 # =========================
 # Operating System Files

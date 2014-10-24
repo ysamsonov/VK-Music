@@ -36,9 +36,10 @@ namespace VK_Music
                     if (m.Groups["name"].Value == "user_id")
                         VKSettings.UserID = m.Groups["value"].Value;
                 }
+                this.Hide();
+                MessageBox.Show("Авторизация прошла успешно", "Авторизация");
             }
-            if (AuthWebBrowser.DocumentText.IndexOf("OAuth Blank") != -1) this.Hide();
-            MessageBox.Show("Авторизация прошла успешно", "Авторизация");
+            //if (AuthWebBrowser.DocumentText.IndexOf("OAuth Blank") != -1) this.Hide();
         }
     }
 }
